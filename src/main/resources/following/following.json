@@ -12,7 +12,7 @@
     "gists_url": "https://api.github.com/users/gustavoguanabara/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/gustavoguanabara/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/gustavoguanabara/subscriptions",
-    "organizations_url": "https://api.github.com/users/gustavoguanabara/orgs",
+    "organizations_url": "https://api.gi ub.com/users/gustavoguanabara/orgs",
     "repos_url": "https://api.github.com/users/gustavoguanabara/repos",
     "events_url": "https://api.github.com/users/gustavoguanabara/events{/privacy}",
     "received_events_url": "https://api.github.com/users/gustavoguanabara/received_events",
@@ -98,4 +98,5 @@
     "received_events_url": "https://api.github.com/users/Uninassau-Turmas-2022-2/received_events",
     "type": "Organization",
     "site_admin": false
-  },
+  }
+] 
